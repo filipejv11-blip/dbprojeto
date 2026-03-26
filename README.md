@@ -1,4 +1,5 @@
 DB Diagnóstico v3.0
+
 O DB Diagnóstico v3.0 é uma solução avançada de monitoramento, auditoria e análise de integridade para ecossistemas de bancos de dados relacionais. Desenvolvida para administradores de banco de dados (DBAs) e engenheiros de software, a ferramenta automatiza a detecção de anomalias de performance e falhas de estrutura em ambientes críticos.
 
 Arquitetura e Tecnologias
